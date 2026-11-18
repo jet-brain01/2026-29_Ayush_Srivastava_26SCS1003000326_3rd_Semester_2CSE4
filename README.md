@@ -18,7 +18,7 @@
 ---
 
 > [!WARNING]
-> **Medical Disclaimer:** This project is an **educational prototype** developed during an academic AI/ML internship. It is trained on a small historical dataset (303 records) and has **not** undergone clinical validation. Its outputs are strictly illustrative and must **not** be used for medical diagnosis, treatment, or clinical decision-making.
+> **Medical Disclaimer:** This project is an educational prototype developed during an academic AI/ML internship. It is trained on a small historical dataset (303 records) and has not undergone clinical validation. Its outputs are strictly illustrative and must not be used for medical diagnosis, treatment, or clinical decision-making.
 
 ---
 
@@ -302,7 +302,7 @@ $$
 ## Repository Structure
 
 ```text
-Health-Risk-Prediction-System/
+2026-29_Ayush_Srivastava_26SCS1003000326_3rd_Semester_2CSE4/
 │
 ├── data/
 │   └── heart_cleveland.csv
@@ -319,7 +319,6 @@ Health-Risk-Prediction-System/
 │   ├── app.py
 │   ├── train.py
 │   └── templates/
-│       └── HTML/CSS/JS dashboard interface
 │
 ├── requirements.txt
 │
@@ -333,9 +332,9 @@ Health-Risk-Prediction-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/jet-brain01/2026-29_Ayush_Srivastava_26SCS1003000326_3rd_Semester_2CSE4.git
 
-cd <your-repo-name>
+cd 2026-29_Ayush_Srivastava_26SCS1003000326_3rd_Semester_2CSE4
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -374,9 +373,7 @@ python src/app.py
 
 Open your browser and navigate to:
 
-```text
-http://127.0.0.1:5000/
-```
+`http://127.0.0.1:5000/`
 
 Interact with the Health Risk Prediction Dashboard.
 
@@ -411,7 +408,7 @@ Interact with the Health Risk Prediction Dashboard.
 
 ## Documentation & Credentials
 
-All internship documents and project presentation are included in this repository for academic reference:
+All internship documents and project presentation are included in this repository for academic reference.
 
 | Document | File |
 | :--- | :--- |
@@ -442,7 +439,7 @@ IILM University, Greater Noida
 **AI & ML Intern — TechNova Solutions**  
 `June 2026 – July 2026`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/<your-username>)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/jet-brain01)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/<your-linkedin>)
 
